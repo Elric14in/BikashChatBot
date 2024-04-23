@@ -1,7 +1,7 @@
 {
-    "name": "BikashRobot", 
+    "name": "GTA X BOT", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg",
+    "logo": "https://telegra.ph/file/0d9e168d6417cf7c433ef.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
