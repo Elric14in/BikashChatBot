@@ -3,7 +3,7 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups
 Click Below Picture To Open GTAChat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/Elric_1"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="https://t.me/Elric_1"><img src="https://telegra.ph/file/0d9e168d6417cf7c433ef.jpg"></a></p>
 
 
 
