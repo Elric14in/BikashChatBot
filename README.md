@@ -9,7 +9,6 @@ Click Below Picture To Open GTAChat Bot Owner Id...
 
 ### Deploy To Heroku
 
-[𝐞𝐝𝐢𝐭
 [𝙀𝙇𝙍𝙄𝘾](https://t.me/Elric_1)
 
 ## Telegram 🏪
