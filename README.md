@@ -21,7 +21,7 @@ Click Below Picture To Open GTAChat Bot Owner Id...
 
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![𝙀𝙇𝙍𝙄𝘾](https://telegra.ph/file/a630f218c22b6c821f84f.jpg)](https://t.me/Elric_1)
+[![𝙀𝙇𝙍𝙄𝘾](https://telegra.ph/file/9eb2016f3e9dbce5187a7.jpg)](https://t.me/Elric_1)
 
 
 #### Main Developer = [𝙀𝙇𝙍𝙄𝘾](https://t.me/Elric_1)
